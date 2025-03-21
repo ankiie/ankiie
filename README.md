@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://source.unsplash.com/1600x400/?technology,data,analytics)  
 
-## 👋 Hi there! I'm [Your Name]  
+## 👋 Hi there! I'm Ankita
 
 I am a **Data Analyst** passionate about transforming raw data into actionable insights. My expertise lies in **SQL, Excel, Power BI, and Python**, enabling businesses to make data-driven decisions.  
 
