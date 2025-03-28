@@ -1,6 +1,3 @@
-# 💻 Data Analyst | SQL | Excel | Power BI | Python  
-
-
 ## 👋 Hi there! I'm Ankita
 
 I am a **Data Analyst** passionate about transforming raw data into actionable insights. My expertise lies in **SQL, Excel, Power BI, and Python**, enabling businesses to make data-driven decisions.  
