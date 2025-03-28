@@ -1,10 +1,14 @@
 # 💻 Data Analyst | SQL | Excel | Power BI | Python  
 
-![Profile Banner](https://source.unsplash.com/1600x400/?technology,data,analytics)  
 
 ## 👋 Hi there! I'm Ankita
 
 I am a **Data Analyst** passionate about transforming raw data into actionable insights. My expertise lies in **SQL, Excel, Power BI, and Python**, enabling businesses to make data-driven decisions.  
+
+📍 **Delhi**  
+📧 **Email:** [mail2kumariankita@gmail.com](mailto:mail2kumariankita@gmail.com)  
+🔗 **LinkedIn:** [ankita300496](https://linkedin.com/in/ankita300496)  
+👨‍💻 **GitHub:** [ankiie](https://github.com/ankiie)
 
 ### 🚀 About Me  
 - 🎯 **Currently Working On:** Advanced SQL and Power BI Dashboards  
@@ -55,10 +59,5 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
 
 ---
-
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFA500?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
 
 🚀 **Let’s collaborate and uncover data-driven insights!**  
