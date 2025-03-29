@@ -11,7 +11,7 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 - 🎯 **Currently Working On:** Advanced SQL and Power BI Dashboards  
 - 📊 **Passionate About:** Data Visualization, Business Intelligence, and Predictive Analytics  
 - 🌱 **Always Learning:** Data Warehousing, Machine Learning for Business Analytics  
-- 💬 **Ask Me About:** SQL Query Optimization, Power BI DAX, and Python for Data Analysis  
+- 💬 **Ask Me About:** SQL Query Optimization, Power BI DAX, and Python for Data Analysis
 
 ---
 
