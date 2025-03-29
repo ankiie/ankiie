@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Ankita
+# Hello, folks! <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/><img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
 I am a **Data Analyst** passionate about transforming raw data into actionable insights. My expertise lies in **SQL, Excel, Power BI, and Python**, enabling businesses to make data-driven decisions.  
 
@@ -6,6 +6,10 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 📧 **Email:** [mail2kumariankita@gmail.com](mailto:mail2kumariankita@gmail.com)  
 🔗 **LinkedIn:** [ankita300496](https://linkedin.com/in/ankita300496)  
 👨‍💻 **GitHub:** [ankiie](https://github.com/ankiie)
+
+<img align="right" img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
+
+---
 
 ### 🚀 About Me  
 - 🎯 **Currently Working On:** Advanced SQL and Power BI Dashboards  
