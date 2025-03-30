@@ -42,9 +42,8 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 ### 📈 **2. Digital Marketing Analysis**  
 📌 **Description:** analyzes a digital marketing dataset to evaluate the effectiveness of different ad types and campaigns. 
 📌 **Skills Used:** Excel, Power Bi
-📌 **GitHub Repository:** [Project Link](https://github.com/YourGitHubUsername/Customer-Churn)  
+📌 **GitHub Repository:** [Project Link](https://github.com/ankiie/Digital-Marketing-Analysis)  
 📌 **Preview:**  
-![Churn Prediction](https://source.unsplash.com/800x400/?data,analysis)  
 
 ---
 
