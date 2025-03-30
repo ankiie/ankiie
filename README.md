@@ -11,15 +11,18 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 
 ---
 
-### 🚀 About Me  
-- 🎯 **Currently Working On:** Advanced SQL and Power BI Dashboards  
-- 📊 **Passionate About:** Data Visualization, Business Intelligence, and Predictive Analytics  
-- 🌱 **Always Learning:** Data Warehousing, Machine Learning for Business Analytics  
-- 💬 **Ask Me About:** SQL Query Optimization, Power BI DAX, and Python for Data Analysis
+###  About Me  
+
+- **Profile:** Data Analytics 
+- **Domain:** Retail, Ecommerce, BFSI & Digital Marketing
+- **Education:** Bachelor of Arts
+- **Language:** English and Hindi
+- **Interest:** Traveling, reading, art & craft
 
 ---
 
-## 🛠️ Skills & Tools  
+##  Skills & Tools  
+
 🔹 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
 🔹 **Databases:** SQL (MySQL, PostgreSQL, SQL Server)  
 🔹 **Data Visualization:** Power BI, Excel Dashboards  
