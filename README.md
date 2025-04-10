@@ -34,11 +34,9 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 ## 📂 Projects  
 
 ### 📊 **1. Airbnb Data Analysis (Python)**  
-📌 **Description:** Built an interactive Power BI dashboard to track sales trends, revenue, and key performance indicators (KPIs).  
+📌 **Description:** analyzes a airbnb property listing dataset on the basis of markettrends, pricing strategies and location based performances. 
 📌 **Skills Used:** Python, Excel, Data Cleaning  
-📌 **GitHub Repository:** [Project Link](https://github.com/YourGitHubUsername/Sales-Dashboard)  
-📌 **Preview:**  
-![Sales Dashboard](https://source.unsplash.com/800x400/?dashboard,analytics)  
+📌 **GitHub Repository:** [Project Link](https://github.com/ankiie/Airbnb-Data-Analysis)
 
 ---
 
