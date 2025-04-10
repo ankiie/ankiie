@@ -33,9 +33,9 @@ I am a **Data Analyst** passionate about transforming raw data into actionable i
 
 ## 📂 Projects  
 
-### 📊 **1. Sales Performance Dashboard (Power BI)**  
+### 📊 **1. Airbnb Data Analysis (Python)**  
 📌 **Description:** Built an interactive Power BI dashboard to track sales trends, revenue, and key performance indicators (KPIs).  
-📌 **Skills Used:** Power BI, DAX, SQL, Data Cleaning  
+📌 **Skills Used:** Python, Excel, Data Cleaning  
 📌 **GitHub Repository:** [Project Link](https://github.com/YourGitHubUsername/Sales-Dashboard)  
 📌 **Preview:**  
 ![Sales Dashboard](https://source.unsplash.com/800x400/?dashboard,analytics)  
